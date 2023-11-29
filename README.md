@@ -7,6 +7,7 @@ I am a CTO in the Conversational AI space. I've launched a successful AI startup
 I run a mentorship group for coding on the side called SolveStack.
 
 Best,
+
 //Ana
 
 <!--
