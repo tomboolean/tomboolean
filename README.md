@@ -1,13 +1,5 @@
 ### Happy coding 👋
 
-Hi,
-
-I am a technical co-founder in the Conversational AI space. I've launched a successful AI startup once during 2021-2023, and I'm doing it again, this time with more support from clients and investors because they see the value of AI now.
-
-Best,
-
-//Ana
-
 <!--
 **tomboolean/tomboolean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
